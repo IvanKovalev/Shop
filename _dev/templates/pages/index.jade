@@ -1,0 +1,87 @@
+extends ../layouts/layout
+
+block content
+    .page
+        .container
+            .page__sidebar
+                a(href='#').logo
+                    img(src='img/logo/header_logo.png').logo__img
+                    span.logo__text
+                .feedback
+                    .feedback__inner
+                        .feedback__title Заказать звонок
+                        .feedback__form
+                            form(action='#', method='post')
+                                label.feedback__row
+                                  .feedback__row-title Ваше имя
+                                  input(type='text', placeholder='Введите имя').feedback__row-input
+                                label.feedback__row
+                                    .feedback__row-title Телефон
+                                    input(type='text', placeholder='Введите телефон').feedback__row-input.feedback__row-input-phone
+                                label.feedback__row_call-data
+                                    .feedback__row-title.feedback__row-title__date Дата звонка
+                                    select.feedback__row-select
+                                        - for (var i = 1; i <= 24; i++)
+                                            option.feedback__row-options(value=i)= i
+                                    select.feedback__row-select
+                                        - for (var i = 1; i <= 24; i++)
+                                            option.feedback__row-options(value=i)= i
+                                textarea(placeholder='Комментарии').feedback__row-textarea
+                                .feedback__form-buttons
+                                    input(type='submit', value='Отправить').feedback__form-submit
+                                    input(type='reset', value='Очистить').feedback_form-reset
+                .pictures
+                    ul.pictures__list
+                        - for (var i = 0; i <= 8; i++)
+                            li.pictures__item
+                                a(href='#').pictures__link
+                                    img(src="//lorempixel.com/70/70/nature/" + i).pictures__img
+                .contacts
+                    .contacts_inner
+                        .contacts_address г. Москва, ул. Новая 246, офис 214.
+                        a(href='+7(921) 322-12-32').contacts__phone +7(921) 322-12-32
+            .page__content
+                .slider
+                    ul.slider__list
+                        - for (var i = 0; i <= 4; i++)
+                            li.slider__item
+                                img(src="//lorempixel.com/740/300/technics/" + i).slider__img
+                    .slider__description
+                         .slider__description-inner
+                             .slider__description-title
+                                a(href='#') iMac за полцены
+                                .slider__description-text Принеси свой старый Mac  и получи скидку на новый!
+                each section in ['Популярные товары','Товары со скидкой']
+                    .products
+                        .page-title
+                                span.page-title__text= section
+                            ul.products__list
+                                    each title, indx in ['Apple Thunderb Display 27','iMac 27','iPhone 5s Gold']
+                                        li.products__item
+                                            a(href='#').products__item-inner
+                                                .products__title
+                                                    .products__title-pic
+                                                        img(src="//lorempixel.com/70/70/nature/" + indx)
+                                                    .products__title-text--wrap
+                                                        .products__title-text= title
+                                                ul.products__options-list
+                                                    li.products__options-item
+                                                        .products__options-key Артикул
+                                                        .products__options-value dasdsad
+                                                    li.products__options-item
+                                                        .products__options-key Опция
+                                                        .products__options-value lorem
+                                                    li.products__options-item
+                                                        .products__options-key Цвет
+                                                        .products__options-value lorem4234234
+                                                    li.products__options-item
+                                                        .products__options-key Размер
+                                                        .products__options-value lorem 123123
+                                                    li.products__options-item
+                                                        .products__options-key Вес
+                                                        .products__options-value lorem asdasd
+
+
+
+
+

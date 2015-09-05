@@ -1,0 +1,24 @@
+{
+  "name": "timshop",
+  "version": "0.1.0",
+  "authors": [
+    "Ivan Kovalev <kovalevivang@gmail.com>"
+  ],
+  "description": "project #2",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3",
+    "jquery": "1.11.3",
+    "bxslider-4": "~4.2.5",
+    "jquery-placeholder": "~2.1.2",
+    "jquery.columnizer": "~1.6.2"
+  }
+}

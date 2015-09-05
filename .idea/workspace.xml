@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93867296-3137-4dda-90ab-eb19bb680888" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_common\_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_common\_footer.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_common\footer.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_common\footer.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_layouts\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_layouts\layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_pages\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_makeups\_pages\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_modules\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_plugins\jquery.bxslider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_plugins\jquery.fancybox.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_plugins\jquery.jscrollpane.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_plugins\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_scripts\_plugins\jquery.simpleselect.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\_fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\_fonts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\_normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\_normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\adjustment.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\adjustment.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\mixins.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_misc\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\_common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\_common.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\content.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\content.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\footer.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\footer.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\header.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\header.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\sidebar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\_sections\sidebar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\plugins\jquery.jscrollpane.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\plugins\jquery.jscrollpane.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\plugins\simpleselect.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\_dev\_styles\plugins\simpleselect.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_light_pro-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_light_pro-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_light_pro-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_light_pro-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_light_pro-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro_italic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro_italic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro_italic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro_italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\elektra_medium_pro_italic-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\font-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\font-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\font-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\font-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\fonts\font-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\html\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\footer__logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\footer_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\icons\appStore.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\icons\footer__sosial-img.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\icons\googlePlay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\footer\slider__buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\icons\feedback__row-select-button.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\icons\mark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\icons\phone.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\logo\header_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\img\slider\slider__bottom-opacity.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\js\_source\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\js\_source\plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\js\_vendor\jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\server\htdocs\test.com\js\_vendor\modernizr-2.6.2-respond-1.1.0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="test.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test.com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MultiMarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownHtmlEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-25.275862">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37037036">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93867296-3137-4dda-90ab-eb19bb680888" name="Default" comment="" />
+      <created>1441455995114</created>
+      <option name="number" value="Default" />
+      <updated>1441455995114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.275862">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37037036">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
